@@ -17,11 +17,11 @@
 <img src=https://i.imgur.com/wvTMw09.jpg>
 </p>
   <p align="center">
-<a href="https://github.com/zim-bot"><img title="Author-DripsMemes" src="https://img.shields.io/badge/Author-zim-bot/zim-bot?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/zim-bot"><img title="Author-Dr-Asu" src="https://img.shields.io/badge/Author-zim-bot/zim-bot?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/zim-bot">DripsMemes</a> to make it public
+Project created by <a href="https://github.com/Dr-Asu">Dr-Asu</a> to make it public
     <br>
        | © |
         Reserved |
@@ -34,7 +34,7 @@ Project created by <a href="https://github.com/zim-bot">DripsMemes</a> to make i
 
 ## Subcribe to my channel for more updates 👇
 
- [![ANY DOUBT REFER IT](https://www.linkpicture.com/q/YouTube-Logo-700x394.png)](https://www.youtube.com/channel/UC2hESq6BCRMCU-LKpl7Oq8g)
+ [![ANY DOUBT REFER IT](https://www.linkpicture.com/q/YouTube-Logo-700x394.png)]
 
 
 
@@ -42,7 +42,7 @@ Project created by <a href="https://github.com/zim-bot">DripsMemes</a> to make i
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zim-boti/queen-angella)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dr-Asu/queen-angella)
 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ReinhardTuna/zim-bot?v=1)
@@ -66,7 +66,7 @@ Project created by <a href="https://github.com/zim-bot">DripsMemes</a> to make i
 <a href="https://github.com/Amal-ser/Amalser/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Amal-ser/Amalser?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
-## DRIPS MEMES
+## Dr Asu
     
 ### ⚠ Warning ⚠
 
